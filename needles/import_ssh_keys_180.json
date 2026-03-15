@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 135,
+      "ypos": 63,
+      "width": 187,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 135,
+      "ypos": 110,
+      "width": 64,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "import_ssh_keys_180"
+  ]
+}
