@@ -120,7 +120,7 @@ sub run {
     send_key "ret"; #Click enter on Proxy address field and procced to next page
 
     # Optional: import SSH keys page#
-    assert_screen "import_ssh_keys_150";
+    assert_screen "import_ssh_keys_180";
     send_key "ret"; #Click enter on Http URL field and procced to next page
 
     # Optional: remote Harvester config page#
